@@ -1,4 +1,4 @@
-#Extra Credit
+# Extra Credit
 
 You can also add on to your Battleship! program to make it more complex and fun to play. Here are some ideas for enhancements—maybe you can think of some more!
 
